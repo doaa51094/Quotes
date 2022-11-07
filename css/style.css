@@ -1,0 +1,28 @@
+.home{
+    background-image: url(../img/michael-discenza-9Y_b6ujUSZM-unsplash.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body h1{ 
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button{
+ background-color: blue;
+ color: white;
+ transition: all 1s;
+
+}
+button:hover{
+    background-color: green;
+}
+button{
+    background-color: rgb(56, 116, 138)!important;
+}
+h1 span{
+    color: rgb(56, 116, 138);
+    font-size:6rem;
+}
+
+
